@@ -233,15 +233,5 @@ Users should create their own API credentials before running the project.
 
 # Author
 
-**Hannah Fathi**
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
 
-Research Interests
-
-- Computer Vision
-- Remote Sensing
-- Medical AI
-- Machine Learning
-- Information Retrieval
-- Large Language Models
-
----
